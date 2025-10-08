@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" title="postgreSQL" />
   <img width="12" />
   
-</div> -->
+</div> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Veerendra7987&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
