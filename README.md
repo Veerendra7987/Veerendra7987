@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on SpringBoot<br>🌱 I’m currently learning Java
+🔭 I’m currently working on SpringBoot<br>🌱 I’m currently learning JavaScript
 
 
 
