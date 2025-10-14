@@ -3,7 +3,14 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on SpringBoot<br>🌱 I’m currently learning JavaScript
+
+🔭 I’m currently working on SpringBoot<br>
+🌱 I’m currently learning JavaScript
+- 👨‍💻 All of my projects are available at [https://github.com/Veerendra7987](https://github.com/Veerendra7987)
+
+- 📫 How to reach me **ashuahirwar29@gmail.com**
+
+- ⚡ Fun fact **I'm funny 😎**
 
 
 
