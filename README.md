@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on SpringBoot.<br>
+🔭 I’m currently working on SpringBoot Project.<br>
 🌱 I’m currently learning JavaScript.
 - 👨‍💻 All of my projects are available at [https://github.com/Veerendra7987](https://github.com/Veerendra7987)
 
